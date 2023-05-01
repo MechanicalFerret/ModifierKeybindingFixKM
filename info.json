@@ -7,5 +7,5 @@
     "AssemblyName": "ModifierKeybindingFixKM.dll",
     "EntryMethod": "ModifierKeybindingFixKM.Main.Load",
     "HomePage": "https://github.com/MechanicalFerret/ModifierKeybindingFixKM",
-    "Repository": "https://github.com/MechanicalFerret/ModifierKeybindingFixKM/raw/master/ModifierKeybindingFixKM/release.json"
+    "Repository": "https://raw.githubusercontent.com/MechanicalFerret/ModifierKeybindingFixKM/master/release.json"
 }
