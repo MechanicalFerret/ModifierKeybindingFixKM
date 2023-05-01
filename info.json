@@ -1,0 +1,11 @@
+﻿{
+    "Id": "ModifierKeybindingFixKM",
+    "DisplayName": "Modifier Keybinding Fix: Kingmaker",
+    "Author": "MechanicalFerret",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.25.4.0",
+    "AssemblyName": "ModifierKeybindingFixKM.dll",
+    "EntryMethod": "ModifierKeybindingFixKM.Main.Load",
+    "HomePage": "https://github.com/MechanicalFerret/ModifierKeybindingFixKM",
+    "Repository": "https://github.com/MechanicalFerret/ModifierKeybindingFixKM/raw/master/ModifierKeybindingFixKM/release.json"
+}
